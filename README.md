@@ -131,5 +131,5 @@ I'm passionate about building impactful web applications, diving deep into syste
 - ☁ Get hands-on with AWS and advanced cloud tools  
 - 🧠 Deepen knowledge in OS, CN, and system design
 
-[![LinkedIn](https://www.linkedin.com/in/vansh-yeole-ab5404308/)  
-[![GitHub](https://github.com/vanshyeole2291)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/vansh-yeole-ab5404308/)  
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/vanshyeole2291)
