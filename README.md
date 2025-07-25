@@ -100,6 +100,15 @@ I'm passionate about building impactful web applications, diving deep into syste
 ### 🚀 Projects
 
 #### 🔐 Random Password Generator
+# LegalAssist – Digital Legal Helpdesk for the Indian Judiciary 🇮🇳⚖️
+
+- **Description:** LegalAssist is a multilingual web utility tool designed to assist citizens in navigating the Indian legal system. It provides information, case tracking, and legal resources with language-switching support.
+- **Technologies Used:** HTML, CSS, JavaScript, ReactJS, Node.js
+- **Uses:** Empowers users to understand and access legal help, track case status, and navigate legal procedures with ease.
+- **GitHub Repo:** [LegalAssist](https://github.com/vanshyeole2291/legalassist)
+
+  
+#### 🔐 Random Password Generator
 - *Description:* A utility tool to generate secure and customizable passwords using a mix of characters, digits, and symbols.
 - *Technologies Used:* HTML, CSS, JavaScript
 - *Uses:* Helps users generate strong passwords for enhanced security across websites and apps.
