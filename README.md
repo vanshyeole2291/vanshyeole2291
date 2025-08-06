@@ -98,8 +98,13 @@ I'm passionate about building impactful web applications, diving deep into syste
 ---
 
 ### 🚀 Projects
-
-#### 🔐 Random Password Generator
+****
+# SmartHealthcare – An AI-powered smart healthcare ⚖️
+- **Description:** SmartHealthCare is an AI-powered web application designed to offer real-time physiotherapy guidance, speech therapy, facial relaxation, and Ayurveda-based health insights. It supports multilingual voice instructions and ensures secure handling of sensitive data.
+- **Technologies Used:** HTML, CSS, JavaScript, ReactJS, Node.js, TensorFlow.js, MediaPipe
+- **Uses:** Assists users with AI-driven posture correction, guided physiotherapy sessions, speech therapy, and personalized wellness suggestions using Ayurvedic principles.
+- **GitHub Repo:**  SmartHealthCare
+- **GitHub Repo:** [smarthealthcare](https://github.com/vanshyeole2291/smalthhealthcare))
 # LegalAssist – Digital Legal Helpdesk for the Indian Judiciary 🇮🇳⚖️
 
 - **Description:** LegalAssist is a multilingual web utility tool designed to assist citizens in navigating the Indian legal system. It provides information, case tracking, and legal resources with language-switching support.
